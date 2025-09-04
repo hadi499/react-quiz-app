@@ -1,0 +1,112 @@
+[
+  {
+    "question": "Choose the correct plural form of 'child':",
+    "options": [
+      "childs",
+      "childes",
+      "children",
+      "child"
+    ],
+    "correct": 2,
+    "explanation": "'Child' berubah menjadi 'children' dalam bentuk jamak, bukan 'childs'."
+  },
+  {
+    "question": "What is the singular form of 'teeth'?",
+    "options": [
+      "tooths",
+      "tooth",
+      "teethe",
+      "teath"
+    ],
+    "correct": 1,
+    "explanation": "Bentuk tunggal dari 'teeth' adalah 'tooth'."
+  },
+  {
+    "question": "Choose the correct plural form of 'mouse':",
+    "options": [
+      "mouses",
+      "mice",
+      "mous",
+      "mouse"
+    ],
+    "correct": 1,
+    "explanation": "'Mouse' dalam bentuk jamak menjadi 'mice', bukan 'mouses'."
+  },
+  {
+    "question": "What is the plural form of 'tomato'?",
+    "options": [
+      "tomatos",
+      "tomatoes",
+      "tomate",
+      "tomats"
+    ],
+    "correct": 1,
+    "explanation": "Kata berakhiran 'o' seperti 'tomato' biasanya berubah menjadi 'tomatoes'."
+  },
+  {
+    "question": "Choose the correct singular form of 'geese':",
+    "options": [
+      "geese",
+      "goose",
+      "gose",
+      "goos"
+    ],
+    "correct": 1,
+    "explanation": "Bentuk tunggal dari 'geese' adalah 'goose'."
+  },
+  {
+    "question": "What is the plural form of 'box'?",
+    "options": [
+      "boxs",
+      "boxes",
+      "boxies",
+      "box"
+    ],
+    "correct": 1,
+    "explanation": "Kata berakhiran 'x' mendapat tambahan 'es' → 'boxes'."
+  },
+  {
+    "question": "Choose the correct singular form of 'feet':",
+    "options": [
+      "foot",
+      "feet",
+      "foots",
+      "feets"
+    ],
+    "correct": 0,
+    "explanation": "Bentuk tunggal dari 'feet' adalah 'foot'."
+  },
+  {
+    "question": "What is the plural form of 'baby'?",
+    "options": [
+      "babys",
+      "babies",
+      "babyes",
+      "babys'"
+    ],
+    "correct": 1,
+    "explanation": "Kata berakhiran 'y' setelah konsonan berubah menjadi 'ies' → 'babies'."
+  },
+  {
+    "question": "Choose the correct plural form of 'man':",
+    "options": [
+      "mans",
+      "mens",
+      "men",
+      "manses"
+    ],
+    "correct": 2,
+    "explanation": "Bentuk jamak tidak beraturan: 'man' menjadi 'men'."
+  },
+  {
+    "question": "What is the singular form of 'leaves'?",
+    "options": [
+      "leafs",
+      "leave",
+      "leaf",
+      "leav"
+    ],
+    "correct": 2,
+    "explanation": "Bentuk tunggal dari 'leaves' adalah 'leaf'."
+  }
+]

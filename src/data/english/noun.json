@@ -1,0 +1,112 @@
+[
+  {
+    "question": "Manakah kata benda (noun) dari pilihan berikut?",
+    "options": [
+      "Beautiful",
+      "Run",
+      "Book",
+      "Quickly"
+    ],
+    "correct": 2,
+    "explanation": "Book adalah kata benda (noun), sedangkan beautiful = adjective, run = verb, quickly = adverb."
+  },
+  {
+    "question": "Manakah kata sifat (adjective) dalam pilihan berikut?",
+    "options": [
+      "Happy",
+      "Swim",
+      "Table",
+      "Sing"
+    ],
+    "correct": 0,
+    "explanation": "Happy adalah adjective karena menjelaskan sifat atau keadaan seseorang."
+  },
+  {
+    "question": "Pilih kata kerja (verb) berikut:",
+    "options": [
+      "Dog",
+      "Chair",
+      "Jump",
+      "Beautiful"
+    ],
+    "correct": 2,
+    "explanation": "Jump adalah kata kerja (verb), sedangkan dog dan chair adalah noun, beautiful adalah adjective."
+  },
+  {
+    "question": "Manakah kata yang termasuk noun?",
+    "options": [
+      "Eat",
+      "Apple",
+      "Strong",
+      "Quickly"
+    ],
+    "correct": 1,
+    "explanation": "Apple adalah noun (kata benda)."
+  },
+  {
+    "question": "Manakah adjective di antara pilihan berikut?",
+    "options": [
+      "Tall",
+      "Run",
+      "Book",
+      "Swim"
+    ],
+    "correct": 0,
+    "explanation": "Tall adalah adjective karena mendeskripsikan sifat atau tinggi seseorang/benda."
+  },
+  {
+    "question": "Pilih kata yang merupakan verb:",
+    "options": [
+      "Sing",
+      "Teacher",
+      "Happy",
+      "Desk"
+    ],
+    "correct": 0,
+    "explanation": "Sing adalah verb (kata kerja)."
+  },
+  {
+    "question": "Manakah yang merupakan kata benda (noun)?",
+    "options": [
+      "Sleep",
+      "Car",
+      "Hot",
+      "Read"
+    ],
+    "correct": 1,
+    "explanation": "Car adalah noun, sementara sleep dan read adalah verb, hot adalah adjective."
+  },
+  {
+    "question": "Pilih kata sifat (adjective) berikut:",
+    "options": [
+      "Fast",
+      "Run",
+      "City",
+      "Dance"
+    ],
+    "correct": 0,
+    "explanation": "Fast adalah adjective karena menjelaskan kecepatan."
+  },
+  {
+    "question": "Manakah verb di antara pilihan berikut?",
+    "options": [
+      "Chair",
+      "Beautiful",
+      "Walk",
+      "House"
+    ],
+    "correct": 2,
+    "explanation": "Walk adalah verb (kata kerja)."
+  },
+  {
+    "question": "Pilih kata benda (noun) berikut:",
+    "options": [
+      "Eat",
+      "Computer",
+      "Blue",
+      "Sleep"
+    ],
+    "correct": 1,
+    "explanation": "Computer adalah noun (kata benda)."
+  }
+]
