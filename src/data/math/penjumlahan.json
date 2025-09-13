@@ -1,0 +1,62 @@
+[
+  {
+    "question": "Berapakah hasil dari 8 + 5?",
+    "options": ["12", "13", "15", "16"],
+    "correct": 1,
+    "explanation": "8 + 5 = 13"
+  },
+  {
+    "question": "Berapakah hasil dari 7 + 4?",
+    "options": ["10", "11", "12", "13"],
+    "correct": 1,
+    "explanation": "7 + 4 = 11"
+  },
+  {
+    "question": "Berapakah hasil dari 6 + 9?",
+    "options": ["14", "17", "16", "15"],
+    "correct": 3,
+    "explanation": "6 + 9 = 15"
+  },
+  {
+    "question": "Berapakah hasil dari 15 + 7?",
+    "options": ["21", "23", "22", "24"],
+    "correct": 2,
+    "explanation": "15 + 7 = 22"
+  },
+  {
+    "question": "Berapakah hasil dari 26 + 8?",
+    "options": ["33", "34", "35", "36"],
+    "correct": 1,
+    "explanation": "26 + 8 = 34"
+  },
+  {
+    "question": "Berapakah hasil dari 9 + 7?",
+    "options": ["16", "19", "17", "18"],
+    "correct": 0,
+    "explanation": "9 + 7 = 16"
+  },
+  {
+    "question": "Berapakah hasil dari 28 + 9?",
+    "options": ["32", "33", "34", "37"],
+    "correct": 3,
+    "explanation": "28 + 9 = 37"
+  },
+  {
+    "question": "Berapakah hasil dari 45 + 9?",
+    "options": ["52", "51", "54", "55"],
+    "correct": 2,
+    "explanation": "45 + 9 = 54"
+  },
+  {
+    "question": "Berapakah hasil dari 67 + 6?",
+    "options": ["72", "73", "74", "75"],
+    "correct": 1,
+    "explanation": "67 + 6 = 73"
+  },
+  {
+    "question": "Berapakah hasil dari 89 + 6?",
+    "options": ["95", "94", "96", "97"],
+    "correct": 0,
+    "explanation": "89 + 6 = 95"
+  }
+]

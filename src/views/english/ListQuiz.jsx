@@ -3,12 +3,12 @@ import { Link } from "react-router-dom";
 export const ListQuiz = () => {
   return (
     <div className="w-[200px] mx-auto mt-12">
-      <div className="flex justify-center flex-col gap-4">
+      <div className="flex justify-center flex-col gap-6">
 
-        <Link to="/english/plural-singular" className="bg-indigo-700 text-center hover:bg-indigo-600 text-slate-100 font-semibold text-lg px-6 py-2 shadow-md rounded-sm">
+        <Link to="/english/plural-singular" className="text-center border-slate-300 border-1 bg-indigo-50 hover:border-blue-400  text-slate-700 hover:text-indigo-600 font-semibold text-lg px-6 py-2 shadow-md rounded-sm">
           Plural & Singular
         </Link>
-        <Link to="/english/plural-singular" className="bg-indigo-700 text-center hover:bg-indigo-600 text-slate-100 font-semibold text-lg px-6 py-2 shadow-md rounded-sm">
+        <Link to="/english/word" className="text-center border-slate-300 border-1 bg-indigo-50 hover:border-blue-400  text-slate-700 hover:text-indigo-600 font-semibold text-lg px-6 py-2 shadow-md rounded-sm">
           Part of Speech
 
         </Link>

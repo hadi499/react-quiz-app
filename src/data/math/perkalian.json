@@ -1,0 +1,62 @@
+[
+  {
+    "question": "Berapakah hasil dari 6 x 7?",
+    "options": ["42", "36", "48", "40"],
+    "correct": 0,
+    "explanation": "6 x 7 = 42"
+  },
+  {
+    "question": "Berapakah hasil dari 9 x 9?",
+    "options": ["72", "81", "99", "90"],
+    "correct": 1,
+    "explanation": "9 x 9 = 81"
+  },
+  {
+    "question": "Berapakah hasil dari 8 x 6?",
+    "options": ["48", "46", "56", "50"],
+    "correct": 0,
+    "explanation": "8 x 6 = 48"
+  },
+  {
+    "question": "Berapakah hasil dari 3 x 9?",
+    "options": ["27", "18", "36", "30"],
+    "correct": 0,
+    "explanation": "3 x 9 = 27"
+  },
+  {
+    "question": "Berapakah hasil dari 8 x 4?",
+    "options": ["28", "32", "36", "40"],
+    "correct": 1,
+    "explanation": "8 x 4 = 32"
+  },
+  {
+    "question": "Berapakah hasil dari 7 x 8?",
+    "options": ["54", "56", "64", "49"],
+    "correct": 1,
+    "explanation": "7 x 8 = 56"
+  },
+  {
+    "question": "Berapakah hasil dari 9 x 8?",
+    "options": ["72", "81", "64", "78"],
+    "correct": 0,
+    "explanation": "9 x 8 = 72"
+  },
+  {
+    "question": "Berapakah hasil dari 6 x 9?",
+    "options": ["52", "54", "56", "60"],
+    "correct": 1,
+    "explanation": "6 x 9 = 54"
+  },
+  {
+    "question": "Berapakah hasil dari 7 x 9?",
+    "options": ["61", "62", "63", "64"],
+    "correct": 2,
+    "explanation": "7 x 9 = 63"
+  },
+  {
+    "question": "Berapakah hasil dari 5 x 7?",
+    "options": ["34", "35", "36", "40"],
+    "correct": 1,
+    "explanation": "5 x 7 = 35"
+  }
+]

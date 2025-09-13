@@ -1,9 +1,9 @@
 import { useState, useEffect } from 'react';
 import { CheckCircle, XCircle, RotateCcw, ChevronDown, ChevronUp, Eye, EyeOff } from 'lucide-react';
 import { Link } from "react-router-dom";
-import quizQuestions from '../../data/english/plural-singular.json';
+import quizQuestions from '../../data/math/perkalian.json';
 
-export const PluralSingular = () => {
+export const Perkalian = () => {
   // Fungsi untuk mengacak array (Fisher-Yates Shuffle)
   const shuffleArray = (array) => {
     const shuffled = [...array];
@@ -33,7 +33,7 @@ export const PluralSingular = () => {
 
   // Reset timer tiap kali ganti pertanyaan
   useEffect(() => {
-    setTimeLeft(15);
+    setTimeLeft(7);
     setAutoSubmitMessage("");
     setIsAutoSubmitting(false);
   }, [currentQuestion]);
@@ -101,7 +101,7 @@ export const PluralSingular = () => {
     setShowResult(false);
     setQuizCompleted(false);
     setShowAnswerKey(false);
-    setTimeLeft(15);
+    setTimeLeft(7);
     setAutoSubmitMessage("");
     setIsAutoSubmitting(false);
   };
@@ -126,7 +126,7 @@ export const PluralSingular = () => {
     const percentage = Math.round((score / quizData.length) * 100);
 
     return (
-      <div className="min-h-screen p-4 ">
+      <div className="min-h-screen  p-4 ">
         <div className="max-w-4xl mx-auto">
 
           <div className="bg-white rounded-2xl shadow-xl p-8 mt-20">
@@ -219,7 +219,7 @@ export const PluralSingular = () => {
             </div>
 
             <div className="text-center mt-8 flex justify-between items-center">
-              <Link to="/english" className="flex items-center px-6 py-3 bg-indigo-600 text-white font-semibold rounded-lg hover:bg-indigo-700 transition-colors duration-200 space-x-2">English Quiz lists</Link>
+              <Link to="/math" className="flex items-center px-6 py-3 bg-indigo-600 text-white font-semibold rounded-lg hover:bg-indigo-700 transition-colors duration-200 space-x-2">Math Quiz lists</Link>
               <button
                 onClick={resetQuiz}
                 className="inline-flex items-center px-6 py-3 bg-indigo-600 text-white font-semibold rounded-lg hover:bg-indigo-700 transition-colors duration-200 space-x-2"
@@ -240,7 +240,7 @@ export const PluralSingular = () => {
       <div className="max-w-2xl mx-auto">
         <div className="bg-white rounded-2xl shadow-xl p-8 mt-20">
           <div className="text-center mb-8">
-            <h1 className="text-3xl font-bold text-gray-800 mb-2">Plural & Singular</h1>
+            <h1 className="text-3xl font-bold text-gray-800 mb-2">Perkalian</h1>
             <div className="flex items-center justify-center space-x-4 text-sm text-gray-600">
               <span>Pertanyaan {currentQuestion + 1} dari {quizData.length}</span>
               <div className="w-32 bg-gray-200 rounded-full h-2">

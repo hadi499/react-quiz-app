@@ -240,7 +240,7 @@ export const Noun = () => {
       <div className="max-w-2xl mx-auto">
         <div className="bg-white rounded-2xl shadow-xl p-8 mt-20">
           <div className="text-center mb-8">
-            <h1 className="text-3xl font-bold text-gray-800 mb-2">Quiz Pengetahuan Umum</h1>
+            <h1 className="text-3xl font-bold text-gray-800 mb-2">Noun, Verb and Adjective</h1>
             <div className="flex items-center justify-center space-x-4 text-sm text-gray-600">
               <span>Pertanyaan {currentQuestion + 1} dari {quizData.length}</span>
               <div className="w-32 bg-gray-200 rounded-full h-2">
